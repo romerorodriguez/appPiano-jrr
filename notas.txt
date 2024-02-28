@@ -1,0 +1,4 @@
+ng s --o
+iniciamos el proyecto en el sistema con la version de angular 18.19.0
+ng build
+costruye la carpeta dist
